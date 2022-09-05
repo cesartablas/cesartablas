@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cesartablas
-- 👀 I’m interested in ABC "Allways Being Coding"
-- 🌱 I’m currently learning openSCAD and 3D printing
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: cptablas@gmail.com
 
 <!---
